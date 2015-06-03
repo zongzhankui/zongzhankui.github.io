@@ -13,4 +13,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[zongzhankui@gmain.com](mailto:zongzhankui@gmain.com)
+[zongzhankui@gmail.com](mailto:zongzhankui@gmail.com)
