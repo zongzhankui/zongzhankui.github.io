@@ -1,3 +1,8 @@
+---
+layout: post
+title: SharedPreferences
+---
+
 # 使用SharedPreferences
 有些时候，应用程序有少量的数据需要保存，而且这些数据的格式很简单：都是普通的字符串、标量类型的值等，比如应用程序的各种配置信息（如是否打开音效、是否使用振动效果等）、小游戏的玩家积分（如扫雷英雄榜之类的）等，对于这种数据，Android提供了SharedPreferences进行保存。
 ## SharedPreferences与Editor简介
