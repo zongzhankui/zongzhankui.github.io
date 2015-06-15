@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 A programmer.
-Interested in Java, Android, Linux and Python.
+Interested in Java, Android, Linux and PHP.
 
 ### More Information
 
